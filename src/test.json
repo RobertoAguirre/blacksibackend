@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "contact_name" : "Jonatan Rico",
+    "contact_phone" : 614256958,
+    "customer" : 
+    {
+        "default_address":
+        {
+            "address": "Torre Sur",
+            "city": "Chihuahua",
+            "country": "MX",
+            "locality": "Santa Elena",
+            "number": "114",
+            "zipcode": "31125"
+            
+        }
+    }
+}
